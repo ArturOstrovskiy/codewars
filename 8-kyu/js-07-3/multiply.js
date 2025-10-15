@@ -1,7 +1,6 @@
-// DESCRIPTION
-// This code does not execute properly. Try to figure out why.*/
+// ❔❔❔DESCRIPTION❔❔❔
 
-// TEST
+// 📝📝📝TEST📝📝📝
 /*
 describe("Multiply", () => {
 	it("fixed tests", () => {
@@ -9,7 +8,7 @@ describe("Multiply", () => {
 		assert.strictEqual(multiply(2,1), 2);
 		*/
 
-// SOLUTION
+// ✅✅✅SOLUTION✅✅✅
 function multiply(a, b){
 	return a * b
 }

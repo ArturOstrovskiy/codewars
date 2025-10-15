@@ -1,11 +1,10 @@
-// DESCRIPTION
-// Создайте метод, который принимает логическое значение и возвращает строку «Да» для значения true или строку «Нет» для значения false.
+// ❔❔❔DESCRIPTION❔❔❔
 
-// TEST
+// 📝📝📝TEST📝📝📝
 // assert.strictEqual(boolToWord(true), 'Yes')
 // assert.strictEqual(boolToWord(false), 'No')
 
-// SOLUTION
+// ✅✅✅SOLUTION✅✅✅
 function boolToWord( bool ){
 if( bool ){
 	return 'Yes'
